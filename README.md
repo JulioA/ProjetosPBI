@@ -1,4 +1,6 @@
-*Um gráfico financeiro beseado em vendas de eletrônicos. Dados Fictícios.*
+*Um gráfico financeiro simples sobre vendas de eletrônicos (Dados Fictícios)*
+
+Aquisição de dados foi feita via Excel. Limpeza dos dados, criação e união de tabelas via Power Query; campos calculados foram feitos utilizando DAX.
 
 
 (Abra no Power Bi Desktop para melhor visualização)
