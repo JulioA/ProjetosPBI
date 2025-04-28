@@ -1,4 +1,6 @@
-*Um gráfico financeiro beseado em vendas de eletrônicos. Dados Fictícios. 
+*Um gráfico financeiro beseado em vendas de eletrônicos. Dados Fictícios.*
+
+
 (Abra no Power Bi Desktop para melhor visualização)
 
 
